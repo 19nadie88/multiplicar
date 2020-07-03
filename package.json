@@ -1,0 +1,22 @@
+{
+  "name": "multiplicar",
+  "version": "1.0.0",
+  "description": "Creacion de tablas de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "multiplicar"
+  ],
+  "author": "Javier Moguel",
+  "license": "ISC",
+  "dependencies": {
+    "@types/yargs": "^15.0.5",
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
